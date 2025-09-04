@@ -17,4 +17,4 @@
 - **Online URL:** [https://otexts.com/fpp2/](https://otexts.com/fpp2/)
 
 #### Why I’m Interested:
-This free online resource is for those who are new to forecasting and introduces the concepts at a basic level. R is used throughout the book which is also a free tool for people to utilize. I am additionally interested in this book because I study finance and believe it would be beneficial to understand forcasting techniques through R as I analzye stock market trends
+This free online resource is for those who are new to forecasting and introduces the concepts at a basic level. R is used throughout the book which is also a free tool for people to utilize. I am additionally interested in this book because I study finance and believe it would be beneficial to understand forcasting techniques through R as I analzye stock market trends.
